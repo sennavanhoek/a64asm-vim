@@ -256,6 +256,14 @@ syntax keyword AArch64Register  s0  s1  s2  s3  s4  s5  s6  s7  s8  s9
 syntax keyword AArch64Register s11 s12 s13 s14 s15 s16 s17 s18 s19 s20
 syntax keyword AArch64Register s22 s23 s24 s25 s26 s27 s28 s29 s30 s31
 
+syntax keyword AArch64Register  h0  h1  h2  h3  h4  h5  h6  h7  h8  h9
+syntax keyword AArch64Register h11 h12 h13 h14 h15 h16 h17 h18 h19 h20
+syntax keyword AArch64Register h22 h23 h24 h25 h26 h27 h28 h29 h30 h31
+
+syntax keyword AArch64Register  b0  b1  b2  b3  b4  b5  b6  b7  b8  b9 
+syntax keyword AArch64Register b11 b12 b13 b14 b15 b16 b17 b18 b19 b20
+syntax keyword AArch64Register b22 b23 b24 b25 b26 b27 b28 b29 b30 b31
+
 syntax keyword AArch64Register wzr xzr
 
 syntax keyword AArch64Register sp pc pstate
