@@ -1,6 +1,6 @@
 " vim: set et ft=vim sw=2 sts=2 ts=8 tw=80 :
 " Script:   a64asm.vim
-" Orgiginal Author:   Saleem Abdulrasool <compnerd@compnerd.org>
+" Original Author:   Saleem Abdulrasool <compnerd@compnerd.org>
 " Forked from: http://github.com/compnerd/arm64asm
 " Requires: Vim 7
 " License:  Redistribute under the same terms as Vim itself
