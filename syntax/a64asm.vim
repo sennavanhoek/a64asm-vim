@@ -1,7 +1,7 @@
 " vim: set et ft=vim sw=2 sts=2 ts=8 tw=80 :
-" Script:   arm64asm.vim
-" Author:   Saleem Abdulrasool <compnerd@compnerd.org>
-" Homepage: http://github.com/compnerd/arm64asm
+" Script:   a64asm.vim
+" Orgiginal Author:   Saleem Abdulrasool <compnerd@compnerd.org>
+" Forked from: http://github.com/compnerd/arm64asm
 " Requires: Vim 7
 " License:  Redistribute under the same terms as Vim itself
 " Purpose:  ARM64 Assembly Syntax Highlighting
@@ -325,5 +325,5 @@ highlight default link AArch64Register   StorageClass
 highlight default link AArch64Type       Tag
 highlight default link AArch64TODO       Todo
 
-let b:current_syntax = "arm64asm"
+let b:current_syntax = "a64asm"
 
